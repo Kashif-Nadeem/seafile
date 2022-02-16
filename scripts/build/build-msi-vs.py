@@ -27,13 +27,13 @@ BUILDDIR = os.path.join(os.getcwd(), "..\\..\\..\\")
 CERTFILE = "C:/certs/seafile.pfx"
 
 # Qt library directory
-QT_DIR = "C:/Qt/Qt5.15.1/5.15.1/msvc2019_64"
+QT_DIR = "C:/Qt/Qt5.13.1/5.13.1/msvc2017_64"
 
 # Wix install directory
-WIX_BIN = "C:/wix/bin"
+WIX_BIN = "C:/Program Files (x86)/WiX Toolset v3.11/bin"
 
 # Openssl lib directory
-OPENSSL_DIR = "C:/packagelib"
+OPENSSL_DIR = "C:/vcpkg/installed/x64-windows/include/openssl"
 
 #####################
 # Work path : seafile library and program tmp directory
